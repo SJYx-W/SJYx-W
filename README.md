@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SJYx-W
 - 👀 I’m interested in Python
-- I can;t code well and I want to learn something that can help me
+- I can't code well and I want to learn something that can help me
 - Oh, I am a Chinese, sometimes I can't speak English well,sorry.
 - Hope we can work happily!
 
